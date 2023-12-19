@@ -1,0 +1,10 @@
+displayName: Web gRPC Plugin for Traefik
+type: middleware
+
+import: github.com/FinalCAD/TraefikGrpcWebPlugin
+
+summary: '[Web gRPC] Web gRPC plugin'
+
+testData:
+  AllowOrigins:
+    - test.com
