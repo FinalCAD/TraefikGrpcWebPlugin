@@ -6,5 +6,5 @@ import: github.com/FinalCAD/TraefikGrpcWebPlugin
 summary: '[Web gRPC] Web gRPC plugin'
 
 testData:
-  AllowOrigins:
+  allowOrigins:
     - test.com
